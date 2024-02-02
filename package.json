@@ -34,7 +34,7 @@
     "passport": "^0.4.0",
     "passport-google-oauth": "^2.0.0",
     "prompts": "^2.2.1",
-    "request": "2.88.0",
+    "request": "2.88.2",
     "socket.io": "^2.2.0",
     "time-ago": "0.2.1"
   },
